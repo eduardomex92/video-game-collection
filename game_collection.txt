@@ -1,0 +1,7 @@
+Title          Platform       Market Value   
+--------------------------------------------------
+God of War     ps5            $50.00         
+Sly cooper     ps3            $15.00         
+uncharted      ps5            $40.00         
+halo           xbox           $40.00         
+dbz            ps5            $60.00         
